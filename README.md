@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 <p align="center">
 <img src="public/logo256.png" width="128px" />
-<h1>📝React.js Todo App</h1>
+<h1>📝Simple Task Tracker</h1>
 </p>
 
 ## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
